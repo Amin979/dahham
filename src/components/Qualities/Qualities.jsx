@@ -12,8 +12,10 @@ const Qualities = () => {
                 <div className="section-t">
                     <h3> We Are Professionals</h3>
                     <p className="text">
-                        You are in the right place. We are not just here to sell, we are also here to assist you in
-                        moving forward. With our expertise, we will help you find your path to success. </p>
+
+                        Welcome to the perfect destination for more than just transactions, we're here to guide you towards success. Beyond offering products,
+                        our dedicated team is committed to assisting you on your journey forward.
+                        With our specialized expertise, we're poised to help you discover the route to your success. </p>
 
                     <div className="item-list grid text-white">
                         {sections.qualities.map(quaity => {

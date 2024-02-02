@@ -15,8 +15,8 @@ const About = () => {
                         <div className='section-t'>
                             <h3> About Us </h3>
                         </div>
-                        <p className="text"> We are Dahham's, a company that started with washing machines in 1974.
-                            After 49 years of experience, we still hold the number one position in Aleppo. Over the
+                        <p className="text"> We are Dahham's, a company that started with washing machines in 1984.
+                            After 40 years of experience, we still hold the number one position in Aleppo. Over the
                             years, we have not only grown in the washing machine industry but also diversified into
                             manufacturing plastic products and various minerals. </p>
                         <p className="text">We capture your interest. Contact us now!</p>
