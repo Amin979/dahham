@@ -23,13 +23,13 @@ const services = [
         id: 3,
         icon: <FaRocket style = {{ fill: gradient }} />,
         title: "Branding",
-        text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
+        text: "Leverage over 40 years of expertise as we guide you seamlessly towards success."
     },
     {
         id: 4,
         icon: <FaEdit style = {{ fill: gradient }} />,
         title: "Content Creation",
-        text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
+        text: "Discover quality and reliability in every replacement part."
     },
     {
         id: 5,
@@ -71,18 +71,18 @@ const features = [
     {
         id: 10,
         title: "contact us",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
+        text: "For inquiries, our main location is in Aleppo, Al Malab Al Baldi, Dahham. Feel free to reach us via email at: [Insert Email Address]."
     },
     {
         id: 11,
         title: "Prices",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
+        text: "We provide competitive prices that vary depending on the product and quantity. Our offerings extend beyond appliances, encompassing a diverse range of spare parts. Serving not only Syria but the entire Middle East, we ensure tailored pricing solutions to meet your specific needs."
     },
-    {
+ /*   {
         id: 12,
         title: "Branding",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
-    },
+    },*/
     {
         id: 13,
         title: "Content Creation",
