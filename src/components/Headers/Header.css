@@ -13,7 +13,8 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.header-btn{
+.header-btn {
+    cursor: pointer;
     align-self: center!important;
 }
 .header-btn span{
