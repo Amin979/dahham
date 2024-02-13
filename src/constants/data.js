@@ -71,7 +71,7 @@ const features = [
     {
         id: 10,
         title: "contact us",
-        text: "For inquiries, our main location is in Aleppo, Al Malab Al Baldi, Dahham. Feel free to reach us via email at: [Insert Email Address]."
+        text: "For inquiries, our main location is in Aleppo, Al Malab Al Baldi, Dahham. Feel free to reach us via email at: dahhamcomp@gmail.com."
     },
     {
         id: 11,
@@ -82,22 +82,23 @@ const features = [
         id: 12,
         title: "Branding",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
-    },*/
+    }
     {
         id: 13,
-        title: "Content Creation",
+        title: "Design",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
-    },
+    },*/
     {
         id: 14,
-        title: "Graphic Design",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
+        title: "Design",
+        text: "we specialize in crafting replacement parts for washing machines and similar appliances. Furthermore, we take pride in our ability to design and manufacture custom components, tailored to the specific preferences and requirements of our valued customers.\"\n" +
+            "\n" +
+            "Feel free to adjust it according to your preferences!"
     },
     {
         id: 15,
-        title: "Media Buying",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et elit vitae lectus convallis scelerisque. Cras vestibulum blandit lorem, at fringilla nisl sollicitudin ac. Nunc venenatis nec neque sed semper. Mauris viverra, sapien sed fringilla egestas, sem felis condimentum augue, vitae sodales sem metus in ex. Aenean massa velit, sollicitudin quis elementum sit amet, vehicula sed nunc."
-    }
+        title: "Online Buying",
+        text: "For any inquiries or requests, feel free to utilize our contact form. Whether you have questions or wish to place an order, our contact form is the convenient way to get in touch and provide the necessary information."}
 ];
 
 const portfolio = [
@@ -170,20 +171,20 @@ const contact = [
     {
         id: 25,
         icon: <FaPhoneAlt style = {{ fill: gradient }} />,
-        info: "+425 235 712",
-        text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
+        info: "+4917621496297",
+        text: "Call us"
     },
     {
         id: 26,
         icon: <FaEnvelopeOpen style = {{ fill: gradient }} />,
-        info: "solnhub@info.com",
-        text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
+        info: "dahhamcomp@gmail.com",
+        text: "Send us an email"
     },
     {
         id: 27,
         icon: <FaMapMarkerAlt style = {{ fill: gradient }} />,
-        info: "United Kingdom, New Street",
-        text: "Lorem ipsum dolor sit mattis amet consectetur adipiscing"
+        info: "Syria, Al Malab Albaldi",
+        text: "Come for a visit!"
     }
 ]
 
