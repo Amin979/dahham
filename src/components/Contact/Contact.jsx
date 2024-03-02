@@ -8,7 +8,7 @@ import Map from './Map';
 const Contact = () => {
     return (
         <section className='contact section-p-top bg-black' id = "contact">
-            <div className='container'>
+         {/*   <div className='container'>
                 <div className='contact-content grid text-center'>
                     <div className='contact-left'>
                         <div className='section-t'>
@@ -55,7 +55,7 @@ const Contact = () => {
                                   handleBlur,
                                   handleSubmit,
                                   isSubmitting,
-                                  /* and other goodies */
+
                               }) => (
                                 <form onSubmit={handleSubmit}>
                                     <div className='form-elem'>
@@ -85,8 +85,7 @@ const Contact = () => {
                         <img src = {images.form_main_img} alt = "" />
                     </div>
                 </div>
-            </div>
-
+            </div> */}
             <Map />
             <Info />
         </section>
